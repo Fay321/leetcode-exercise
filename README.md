@@ -9,5 +9,6 @@ leetcode exercises with python
 |4|[palindrome-number](https://leetcode.com/problems/palindrome-number/submissions/)|Easy|April 8| 数字回文|
 |5|[single number](https://leetcode.com/problems/single-number/solution/)|Easy|April 9|找唯一出现一次的数字|
 |6|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|April 10| 找s中出现在J中字符的个数|
+|7|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|April 11|找数组中出现次数大于数组长度一半的一个数|
 
 
