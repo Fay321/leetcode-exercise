@@ -13,4 +13,5 @@ leetcode exercises with python
 |8|[reverse linked list](https://leetcode.com/problems/reverse-linked-list)|Easy|April 14|逆转链表，对链表这个结构不熟，这道easy题还做了一阵子|
 |9|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|Easy|April 15|直接用了两个集合做差集|
 |10|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/)|Medium|April 15|找数组中第k大的数|
+|11|[house-robber](https://leetcode.com/problems/house-robber/submissions/)|Easy|April 20|找数组中不相邻元素最大和（动态规划）|
 
