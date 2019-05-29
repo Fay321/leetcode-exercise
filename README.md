@@ -15,3 +15,4 @@ leetcode exercises with python
 |10|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/)|Medium|April 15|找数组中第k大的数|
 |11|[house-robber](https://leetcode.com/problems/house-robber/submissions/)|Easy|April 20|找数组中不相邻元素最大和（动态规划）|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/)|Medium（Easy)|May 28| 整数转为罗马数字|
+|13|[string-to-integer](https://leetcode.com/problems/string-to-integer-atoi/)|Medium(Hard)|May 29|字符串中把前面的数字找出来并转为为int（难度在于未想到一些case）|
