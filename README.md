@@ -18,3 +18,4 @@ leetcode exercises with python
 |13|[string-to-integer](https://leetcode.com/problems/string-to-integer-atoi/)|Medium(Hard)|May 29|字符串中把前面的数字找出来并转为为int（难度在于未想到一些case）|
 |14|[max-increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|May 29| Easy|从上方、右侧看楼高保持一致的情况下，增加楼层高度|
 |15|[hamming-distance](https://leetcode.com/problems/hamming-distance/submissions/)|May 29|Easy|把数字转为二进制，看哪些位置不同|
+|16|[3sum](https://leetcode.com/problems/3sum/submissions/)|May 29|Medium|【注意】之前自己想到的是n^3的复杂度遍历，参考[思路】(https://blog.csdn.net/haolexiao/article/details/70768526)知道先排序，再对每个数，求剩下的数字之后为target的list|
