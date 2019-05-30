@@ -19,3 +19,4 @@ leetcode exercises with python
 |14|[max-increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)| Easy|May 29|从上方、右侧看楼高保持一致的情况下，增加楼层高度|
 |15|[hamming-distance](https://leetcode.com/problems/hamming-distance/submissions/)|Easy|May 29|把数字转为二进制，看哪些位置不同|
 |16|[3sum](https://leetcode.com/problems/3sum/submissions/)|Medium|May 29|【注意】之前自己想到的是n^3的复杂度遍历，参考[思路](https://blog.csdn.net/haolexiao/article/details/70768526)知道先排序，再对每个数，求剩下的数字之后为target的list|
+|17|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/submissions/)|Medium|May 30|思路：维护两个数组，到这个数为止的最大值、最小值|
