@@ -23,4 +23,5 @@ leetcode exercises with python
 |18|[shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|Easy|June 1|一开始想到个O(NlogN)复杂度的，觉得可能过不了，就尝试想了O(N)的，但是反而边界条件很难想，最后用一开始想到的简单解法过了|
 |19|[merge-intervals](https://leetcode.com/problems/merge-intervals/)|Medium|June 1|用了类似于暴力搜索的思路解决（时间复杂度高）如果先按照interval的start排序，这样复杂度低些|
 |20|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|June 1|【注意】用递归求二叉树的深度|
-|21|[move-zeroes](https://leetcode.com/problems/move-zeroes/)|June 2|把0都移到数组右侧（想的时候想绕了，想的是非零元从右边往左移动，其实应该是把零往右侧非零处交换|
+|21|[move-zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|June 2|把0都移到数组右侧（想的时候想绕了，想的是非零元从右边往左移动，其实应该是把零往右侧非零处交换|
+|22|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)|Medium|June 2|【注意】自己的思路是从右边往左记录比这个位置大的数，这样如果b比a小的话，只需要查看比b更大的数和a比较即可。看了效率更高的思路是从左往右，大的数值可以消掉栈中的元素|
