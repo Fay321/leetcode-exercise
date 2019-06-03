@@ -27,3 +27,4 @@ leetcode exercises with python
 |22|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)|Medium|June 2|【注意】自己的思路是从右边往左记录比这个位置大的数，这样如果b比a小的话，只需要查看比b更大的数和a比较即可。看了效率更高的思路是从左往右，大的数值可以消掉栈中的元素|
 |23|[counting-bits](https://leetcode.com/problems/counting-bits/)|Medium|June 3|自己思路复杂度是O(N\*size)，然后找到一个找到规律后的O(N)解答|
 |24|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/submissions/)|Medium|June 3|【思路】回文子串（核心思路：就是回文往左右扩一个位置看是否还是回文)|
+|25|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|June 3|合并排序的链表。主要是注意怎么生成链表head,prev,next|
