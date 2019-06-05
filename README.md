@@ -32,3 +32,4 @@ leetcode exercises with python
 |27|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|June 5|找最大子序列和|
 |28|[subsets](https://leetcode.com/problems/subsets/)|Medium|June 5|用了itertools.product笛卡儿积|
 |29|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium(Easy)|June 5|出现次数top K的数字|
+|30|[unique-paths](https://leetcode.com/problems/unique-paths/)|Medium|June 5|从左上角到右下角的不同路径（本质上就是计算组合数）|
