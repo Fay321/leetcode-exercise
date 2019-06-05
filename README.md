@@ -31,3 +31,4 @@ leetcode exercises with python
 |26|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|June 5|【思路】自己是用组合数(scipy.special.comb)来挨着计算，更好的思路是用动态规划|
 |27|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|June 5|找最大子序列和|
 |28|[subsets](https://leetcode.com/problems/subsets/)|Medium|June 5|用了itertools.product笛卡儿积|
+|29|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium(Easy)|June 5|出现次数top K的数字|
