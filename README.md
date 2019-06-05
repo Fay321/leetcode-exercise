@@ -30,3 +30,4 @@ leetcode exercises with python
 |25|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|June 3|合并排序的链表。主要是注意怎么生成链表head,prev,next|
 |26|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|June 5|【思路】自己是用组合数(scipy.special.comb)来挨着计算，更好的思路是用动态规划|
 |27|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|June 5|找最大子序列和|
+|28|[subsets](https://leetcode.com/problems/subsets/)|Medium|June 5|用了itertools.product笛卡儿积|
