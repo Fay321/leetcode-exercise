@@ -35,3 +35,4 @@ leetcode exercises with python
 |30|[unique-paths](https://leetcode.com/problems/unique-paths/)|Medium|June 5|从左上角到右下角的不同路径（本质上就是计算组合数）|
 |31|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)|Medium(Easy)|June 5|找重复数字|
 |32|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|Medium|June 5|蓄水问题，在于观察到这个格子蓄水量为 max(min(左侧最大值，右侧最大值)-高度,0)|
+|33|[sort-colors](https://leetcode.com/problems/sort-colors/)|Medium|June 7|只包含0，1，2的数字排序，直接计算各个数字出现的次数，挨着修改|
