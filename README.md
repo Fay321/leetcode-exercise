@@ -39,3 +39,4 @@ leetcode exercises with python
 |34|[permutations](https://leetcode.com/problems/permutations/)|Medium|June 7|递归来求permutation|
 |35|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|June 7|用了两个字典分别存除了i左侧的积、右侧的积，然后再分别乘起来。这思路空间开销大|
 |36|[rotate-image](https://leetcode.com/problems/rotate-image/)|Medium|June 8|【注意】图像旋转90度，就是先上下翻转，再沿对角线翻转|
+|37|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|Easy|June 8|记录包括第i个位置的最大值|
