@@ -42,3 +42,4 @@ leetcode exercises with python
 |37|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|Easy|June 8|记录包括第i个位置的最大值|
 |38|[group-anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|June 8|判断两个词语字符组成完全相同|
 |39|[combination-sum](https://leetcode.com/problems/combination-sum/)|Medium|June 10|自己的递归思路+去重运行慢，看了一个解答后，先对candidates排序后，就不必再考虑去重，速度快很多|
+|40|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/)|Medium|June 10|最开始想的是挨着算两两柱子形成的容器容量。但这个会超时。用最左、最右两个柱子作为开端；而两个柱子中最低的那个限制了容量，所以要想宽度减少而容量增加只可能是高度变高，所以把两个柱子中较低的那个指针往中间移动|
