@@ -46,3 +46,4 @@ leetcode exercises with python
 |41|[word-break](https://leetcode.com/problems/word-break/)|Medium|June 10|【注意】自己想的递归暴力搜索超时，后面改用动态规划|
 |42|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|June 10|就是用递归得到permutation|
 |43|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|June 10|自己想的从左上角查找，观察题目得到规律应该从右上角查更快些|
+|44|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|Medium|June 10|括号匹配（注意栈为空了，才说明都匹配完了）|
