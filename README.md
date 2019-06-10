@@ -44,3 +44,4 @@ leetcode exercises with python
 |39|[combination-sum](https://leetcode.com/problems/combination-sum/)|Medium|June 10|自己的递归思路+去重运行慢，看了一个解答后，先对candidates排序后，就不必再考虑去重，速度快很多|
 |40|[container-with-most-water](https://leetcode.com/problems/container-with-most-water/)|Medium|June 10|最开始想的是挨着算两两柱子形成的容器容量。但这个会超时。用最左、最右两个柱子作为开端；而两个柱子中最低的那个限制了容量，所以要想宽度减少而容量增加只可能是高度变高，所以把两个柱子中较低的那个指针往中间移动|
 |41|[word-break](https://leetcode.com/problems/word-break/)|Medium|June 10|【注意】自己想的递归暴力搜索超时，后面改用动态规划|
+|42|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|June 10|就是用递归得到permutation|
