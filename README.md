@@ -41,3 +41,4 @@ leetcode exercises with python
 |36|[rotate-image](https://leetcode.com/problems/rotate-image/)|Medium|June 8|【注意】图像旋转90度，就是先上下翻转，再沿对角线翻转|
 |37|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|Easy|June 8|记录包括第i个位置的最大值|
 |38|[group-anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|June 8|判断两个词语字符组成完全相同|
+|39|[combination-sum](https://leetcode.com/problems/combination-sum/)|Medium|June 10|自己的递归思路+去重运行慢，看了一个解答后，先对candidates排序后，就不必再考虑去重，速度快很多|
