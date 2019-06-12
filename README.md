@@ -52,3 +52,4 @@ leetcode exercises with python
 |47|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|June 12|如果用最简单的kN复杂度的思路也可以直接解决|
 |48|[number-of-islands](https://leetcode.com/problems/number-of-islands/)|Medium|June 12|【注意】用了DFS，找到所有相邻岛屿|
 |49|[perfect-squares](https://leetcode.com/problems/perfect-squares/)|Medium|June 12|【注意】一个数可以拆成的最小平方和数目，想到了用类似于change coin动态规划。还有一个求解方法是用DFS|
+|50|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|June 12|【注意】想的递归思路超时，看了solution后是用DFS思路|
