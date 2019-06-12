@@ -49,3 +49,4 @@ leetcode exercises with python
 |44|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|Medium|June 10|括号匹配（注意栈为空了，才说明都匹配完了）|
 |45|[decode-string](https://leetcode.com/problems/decode-string/)|Medium|June 12|类似于括号匹配，用栈|
 |46|[coin-change](https://leetcode.com/problems/coin-change/)|Medium|June 12|【注意】用动态规划来解决换零钱问题|
+|47|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|June 12|如果用最简单的kN复杂度的思路也可以直接解决|
