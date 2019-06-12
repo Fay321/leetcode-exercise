@@ -50,4 +50,4 @@ leetcode exercises with python
 |45|[decode-string](https://leetcode.com/problems/decode-string/)|Medium|June 12|类似于括号匹配，用栈|
 |46|[coin-change](https://leetcode.com/problems/coin-change/)|Medium|June 12|【注意】用动态规划来解决换零钱问题|
 |47|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|June 12|如果用最简单的kN复杂度的思路也可以直接解决|
-|48|[number-of-islands](https://leetcode.com/problems/number-of-islands/)|Medium|June 12|【注意】用了DFS|
+|48|[number-of-islands](https://leetcode.com/problems/number-of-islands/)|Medium|June 12|【注意】用了DFS，找到所有相邻岛屿|
