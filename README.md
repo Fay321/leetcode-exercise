@@ -54,3 +54,5 @@ leetcode exercises with python
 |49|[perfect-squares](https://leetcode.com/problems/perfect-squares/)|Medium|June 12|【注意】一个数可以拆成的最小平方和数目，想到了用类似于change coin动态规划。还有一个求解方法是用DFS|
 |50|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|June 12|【注意】想的递归思路超时，看了solution后是用DFS思路|
 |51|[target-sum](https://leetcode.com/problems/target-sum/)|Medium|June 20|给不同符号，求和等于给定值（用一个字典记录到nums第i个位置为止，等于j的不同搭配数有多少，有点像之前做遍历搜索|
+|52|[]()|Medium|June 22|【待定】这道题有bug|
+|53|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|June 22|【注意】用哈希表。即要确定一个subarray和是否为k，转为看[0:n]和为B的话，看是否有[0:m]和为B-k，这样[m:n]就是要求的子串|
