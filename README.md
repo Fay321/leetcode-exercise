@@ -56,3 +56,4 @@ leetcode exercises with python
 |51|[target-sum](https://leetcode.com/problems/target-sum/)|Medium|June 20|给不同符号，求和等于给定值（用一个字典记录到nums第i个位置为止，等于j的不同搭配数有多少，有点像之前做遍历搜索|
 |52|[]()|Medium|June 22|【待定】这道题有bug|
 |53|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|June 22|【注意】用哈希表。即要确定一个subarray和是否为k，转为看[0:n]和为B的话，看是否有[0:m]和为B-k，这样[m:n]就是要求的子串|
+|54|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Easy|June 22|找s子串的字符（不考虑顺序）等于给定字符p的index位置|
