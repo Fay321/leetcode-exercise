@@ -58,3 +58,4 @@ leetcode exercises with python
 |53|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|June 22|【注意】用哈希表。即要确定一个subarray和是否为k，转为看[0:n]和为B的话，看是否有[0:m]和为B-k，这样[m:n]就是要求的子串|
 |54|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Easy|June 22|找s子串的字符（不考虑顺序）等于给定字符p的index位置|
 |55|[jump-game](https://leetcode.com/problems/jump-game/)|Medium|June 23|【自己想到的思路是类似于solution中方法一，不过写得更耗时；参考了一个答案是类似于solution方法四贪心法，遍历数组，剩余步数step不为零的前提下，每次向前移动一步，将当前的num[i]和step相比较取较大者，作为剩余步数step|
+|56|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|June 23|遍历查找|
