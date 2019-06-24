@@ -61,3 +61,4 @@ leetcode exercises with python
 |56|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|June 23|遍历查找|
 |57|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|June 23|动态规划：包括位置i在内的最长递增子序列长度|
 |58|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hard|June 24|自己想到的思路是先排序，再看是否连续；另一个O(N)思路就是把这个nums处理为集合，然后挨着往上界、下界找|
+|59|[merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy|June 24|【linked list】把二叉树加起来|
