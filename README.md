@@ -63,3 +63,4 @@ leetcode exercises with python
 |58|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Hard|June 24|自己想到的思路是先排序，再看是否连续；另一个O(N)思路就是把这个nums处理为集合，然后挨着往上界、下界找|
 |59|[merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy|June 24|【linked list】(思路：递归）把二叉树加起来|
 |60|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|June 24|【linked list】（思路：递归）把二叉树左右对称翻转|
+|61|[course-schedule](https://leetcode.com/problems/course-schedule/)|Medium|June 26|【注意】判断有向图是否有环（拓扑排序）|
