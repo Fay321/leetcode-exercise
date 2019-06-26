@@ -54,7 +54,7 @@ leetcode exercises with python
 |49|[perfect-squares](https://leetcode.com/problems/perfect-squares/)|Medium|June 12|【注意】一个数可以拆成的最小平方和数目，想到了用类似于change coin动态规划。还有一个求解方法是用DFS|
 |50|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|June 12|【注意】想的递归思路超时，看了solution后是用DFS思路|
 |51|[target-sum](https://leetcode.com/problems/target-sum/)|Medium|June 20|给不同符号，求和等于给定值（用一个字典记录到nums第i个位置为止，等于j的不同搭配数有多少，有点像之前做遍历搜索|
-|52|[]()|Medium|June 22|【待定】这道题有bug|
+|52|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Medium|June 22|【注意】这道题思路没想到，是先对身高从高到低排序，再在组内按照index从小到大排序，然后依次插入|
 |53|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|June 22|【注意】用哈希表。即要确定一个subarray和是否为k，转为看[0:n]和为B的话，看是否有[0:m]和为B-k，这样[m:n]就是要求的子串|
 |54|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Easy|June 22|找s子串的字符（不考虑顺序）等于给定字符p的index位置|
 |55|[jump-game](https://leetcode.com/problems/jump-game/)|Medium|June 23|【自己想到的思路是类似于solution中方法一，不过写得更耗时；参考了一个答案是类似于solution方法四贪心法，遍历数组，剩余步数step不为零的前提下，每次向前移动一步，将当前的num[i]和step相比较取较大者，作为剩余步数step|
