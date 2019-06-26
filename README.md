@@ -64,3 +64,4 @@ leetcode exercises with python
 |59|[merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy|June 24|【linked list】(思路：递归）把二叉树加起来|
 |60|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|June 24|【linked list】（思路：递归）把二叉树左右对称翻转|
 |61|[course-schedule](https://leetcode.com/problems/course-schedule/)|Medium|June 26|【注意】判断有向图是否有环（拓扑排序）|
+|62|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|June 26|【linked list】二叉树的中序遍历（先左，再root，再右），自己想的思路是递归，还可以用stack来存所有左节点|
