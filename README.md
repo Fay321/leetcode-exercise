@@ -65,3 +65,9 @@ leetcode exercises with python
 |60|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|June 24|【linked list】（思路：递归）把二叉树左右对称翻转|
 |61|[course-schedule](https://leetcode.com/problems/course-schedule/)|Medium|June 26|【注意】判断有向图是否有环（拓扑排序）|
 |62|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Medium|June 26|【linked list】二叉树的中序遍历（先左，再root，再右），自己想的思路是递归，还可以用stack来存所有左节点|
+|63|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|July 1| 把二叉树的值每一层每一层输出（从左往右）|
+|64|[burst-balloons](https://leetcode.com/problems/burst-balloons/)|Hard|July 1|【注意】用动态规划，需要想清楚dp定义，而且递推式也要注意|
+|65|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|Easy|July 1|检查是否为对称树|
+|66|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|July 1|矩阵里可往右、往下移动，找最小路径和（动态规划），注意初始条件|
+|67|[min-stack](https://leetcode.com/problems/min-stack/)|Easy|July 1|最小栈|
+|68|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)|Easy|July 1|判断链表是否是回文|
