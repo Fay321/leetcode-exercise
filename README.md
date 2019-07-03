@@ -73,3 +73,4 @@ leetcode exercises with python
 |68|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)|Easy|July 1|判断链表是否是回文|
 |69|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Easy|July 3|【注意】BST是右侧>中间>左侧|
 |70|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/)|Medium|July 3|给定1-n个数有多少独特的BST。把题看懂后，基于BST特点，想到了合适的递推式|
+|71|[](https://leetcode.com/problems/maximal-square/)|Medium|July 3|【注意】最大正方形面积 以当前点(x,y) = '1' 为右下角的最大正方形的边长，递推式f(x,y) = min( f(x-1,y), f(x,y-1), f(x-1,y-1)) + 1.|
