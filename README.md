@@ -75,3 +75,4 @@ leetcode exercises with python
 |70|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/)|Medium|July 3|给定1-n个数有多少独特的BST。把题看懂后，基于BST特点，想到了合适的递推式|
 |71|[maximal-square](https://leetcode.com/problems/maximal-square/)|Medium|July 3|【注意】最大正方形面积 以当前点(x,y) = '1' 为右下角的最大正方形的边长，递推式f(x,y) = min( f(x-1,y), f(x,y-1), f(x-1,y-1)) + 1.|
 |72|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|July 3|判断能否把包含正整数的lst分为和相等的2部分|
+|73|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|July 3|二分法，不过主要是判断target到底属于左/右区间会稍微注意下哪侧区间是有序的|
