@@ -71,3 +71,4 @@ leetcode exercises with python
 |66|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|July 1|矩阵里可往右、往下移动，找最小路径和（动态规划），注意初始条件|
 |67|[min-stack](https://leetcode.com/problems/min-stack/)|Easy|July 1|最小栈|
 |68|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)|Easy|July 1|判断链表是否是回文|
+|69|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Easy|July 3|【注意】BST是右侧>中间>左侧|
