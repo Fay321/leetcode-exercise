@@ -78,3 +78,4 @@ leetcode exercises with python
 |73|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|July 3|二分法，不过主要是判断target到底属于左/右区间会稍微注意下哪侧区间是有序的|
 |74|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|July 7|【注意】递推公式没想到，[参考](https://soulmachine.gitbooks.io/algorithm-essentials/java/dp/best-time-to-buy-and-sell-stock-with-cooldown.html)令sell[i] 表示第i天未持股时，获得的最大利润，buy[i]表示第i天持有股票时，获得的最大利润。|
 |75|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|July 7|判断链表是否有环，其中memory O(1)的方法是使用【快慢指针】|
+|76|[path-sum-iii](https://leetcode.com/problems/path-sum-iii/)|Easy|July 7|二叉树从上到下共有多少条路的和等于指定数值|
