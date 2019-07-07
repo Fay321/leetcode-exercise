@@ -79,4 +79,4 @@ leetcode exercises with python
 |74|[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|July 7|【注意】递推公式没想到，[参考](https://soulmachine.gitbooks.io/algorithm-essentials/java/dp/best-time-to-buy-and-sell-stock-with-cooldown.html)令sell[i] 表示第i天未持股时，获得的最大利润，buy[i]表示第i天持有股票时，获得的最大利润。|
 |75|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|July 7|判断链表是否有环，其中memory O(1)的方法是使用【快慢指针】|
 |76|[path-sum-iii](https://leetcode.com/problems/path-sum-iii/)|Easy|July 7|二叉树从上到下共有多少条路的和等于指定数值|
-|77|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|July 7|两个链表是否有交叉点。O(1)思路是分别遍历两个链表，得到分别对应的长度。然后求长度的差值，把较长的那个链表向后移动这个差值的个数，然后一一比较|
+|77|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|July 7|两个链表是否有交叉点。memory O(1)思路是分别遍历两个链表，得到分别对应的长度。然后求长度的差值，把较长的那个链表向后移动这个差值的个数，然后一一比较|
