@@ -82,5 +82,5 @@ leetcode exercises with python
 |77|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|July 7|两个链表是否有交叉点。memory O(1)思路是分别遍历两个链表，得到分别对应的长度。然后求长度的差值，把较长的那个链表向后移动这个差值的个数，然后一一比较|
 |78|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|July 8|两个链表代表数字，求和|
 |79|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Easy|July 8|二叉树中最长路径，可不过root|
-|80|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|【注意】中心扩散法，还有(马拉车算法)[https://segmentfault.com/a/1190000002991199]|
+|80|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|July 8|【注意】中心扩散法，还有[马拉车算法](https://segmentfault.com/a/1190000002991199)|
 
