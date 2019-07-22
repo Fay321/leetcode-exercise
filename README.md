@@ -84,4 +84,5 @@ leetcode exercises with python
 |79|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Easy|July 8|二叉树中最长路径，可不过root|
 |80|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|July 8|【注意】中心扩散法，还有[马拉车算法](https://segmentfault.com/a/1190000002991199)|
 |81|[lru-cache](https://leetcode.com/problems/lru-cache/)|Medium|July 9|双向链表+dict来实现可以把least recently used对应node删去|
+|82|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|Medium|July 22|把节点都移到右侧（思路是先直接得到右侧节点顺序list，再挨着赋值）|
 
