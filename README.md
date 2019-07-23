@@ -88,5 +88,5 @@ leetcode exercises with python
 |83|[word-search](https://leetcode.com/problems/word-search/)|Medium|July 22|看board横纵相连的子串能否得到指定的word（dfs）|
 |84|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|july 22|得到一个字符串移除不当括号的所有可能（from itertools import combinations, product）|
 |85|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|July 23|root是preorder序列的第一个节点|
-|86|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/）|Medium|July 23|Prefix Tree，用一层一层字典构造的，主要insert改了一两次逻辑才对|
+|86|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium|July 23|Prefix Tree，用一层一层字典构造的，主要insert改了一两次逻辑才对|
 
