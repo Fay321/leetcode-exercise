@@ -87,4 +87,5 @@ leetcode exercises with python
 |82|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|Medium|July 22|把节点都移到右侧（思路是先直接得到右侧节点顺序list，再挨着赋值）|
 |83|[word-search](https://leetcode.com/problems/word-search/)|Medium|July 22|看board横纵相连的子串能否得到指定的word（dfs）|
 |84|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|july 22|得到一个字符串移除不当括号的所有可能（from itertools import combinations, product）|
+|85|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|July 23|root是preorder序列的第一个节点|
 
