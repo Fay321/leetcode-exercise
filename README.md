@@ -90,3 +90,11 @@ leetcode exercises with python
 |85|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|July 23|root是preorder序列的第一个节点|
 |86|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium|July 23|Prefix Tree，用一层一层字典构造的，主要insert改了一两次逻辑才对|
 |87|[house-robber-iii](https://leetcode.com/problems/house-robber-iii/)|Medium|July 23|【注意】这个递归return的要想清楚|
+|88|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|July 28|思路：一个指针多走了n+1步|
+|89|[linked-list-cycle-ii/submissions/](https://leetcode.com/problems/linked-list-cycle-ii/submissions/)|Medium|July 28|判断链表是否有环，以及入口在哪里。【注意】这个思路很巧的地方在于当快指针（每次走2步），慢指针（每次走1步）相遇后，让慢指针和从起点出发的指针再相遇的地方就是环的入口|
+|90|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Medium|July 28|递归地判断点p，q是否属于一个root|
+|91|[next-permutation](https://leetcode.com/problems/next-permutation/)|Medium|July 28|【注意】题意看了[ref](https://blog.csdn.net/qq_29600137/article/details/86628763)后才理解到|
+|92|[sort-list](https://leetcode.com/problems/sort-list/)|Medium|July 29|归并排序，用快慢指针找到中间位置|
+|93|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|July 29|递归地判断是否为bst|
+|94|[evaluate-division](https://leetcode.com/problems/evaluate-division/)|Medium|July 29|collections.defaultdict(dict)，还有dfs|
+|95|[task-scheduler](https://leetcode.com/problems/task-scheduler/)|Medium|July 29|优先安排出现次数最多的task|
