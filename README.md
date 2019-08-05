@@ -98,7 +98,7 @@ leetcode exercises with python
 |93|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|July 29|递归地判断是否为bst|
 |94|[evaluate-division](https://leetcode.com/problems/evaluate-division/)|Medium|July 29|collections.defaultdict(dict)，还有dfs|
 |95|[task-scheduler](https://leetcode.com/problems/task-scheduler/)|Medium|July 29|优先安排出现次数最多的task|
-|96|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Hard|用例子里给的每一层layer记录来序列号二叉树|
-|97|[edit-distance](https://leetcode.com/problems/edit-distance/)|Hard|【注意】用到动态规划，递推式是依据[参考](https://blog.csdn.net/xygy8860/article/details/46929835)|
-|98|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|把所有点放在list中，然后排序|
-|99|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/)|Hard|正则表达式中，注意判断 符号\*这个有两种情况任一一种成立即可self.isMatch(s[1:],p) or self.isMatch(s,p[2:])|
+|96|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Hard|Aug 3|用例子里给的每一层layer记录来序列号二叉树|
+|97|[edit-distance](https://leetcode.com/problems/edit-distance/)|Hard|Aug 3|【注意】用到动态规划，递推式是依据[参考](https://blog.csdn.net/xygy8860/article/details/46929835)|
+|98|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|Aug 3|把所有点放在list中，然后排序|
+|99|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/)|Hard|Aug 5|正则表达式中，注意判断 符号\*这个有两种情况任一一种成立即可self.isMatch(s[1:],p) or self.isMatch(s,p[2:])|
