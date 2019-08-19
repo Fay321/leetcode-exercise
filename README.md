@@ -102,3 +102,4 @@ leetcode exercises with python
 |97|[edit-distance](https://leetcode.com/problems/edit-distance/)|Hard|Aug 3|【注意】用到动态规划，递推式是依据[参考](https://blog.csdn.net/xygy8860/article/details/46929835)|
 |98|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|Aug 3|把所有点放在list中，然后排序|
 |99|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/)|Hard|Aug 5|正则表达式中，注意判断 符号\*这个有两种情况任一一种成立即可self.isMatch(s[1:],p) or self.isMatch(s,p[2:])|
+|100|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Hard|Aug 19|最长有效括号子串，自己写的思路超时，后参考(ref)[https://blog.csdn.net/XX_123_1_RJ/article/details/80973518]写stack的思路|
